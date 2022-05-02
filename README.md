@@ -1,8 +1,9 @@
 # catboxthing
 Some thing i made an evening from stuff i had laying around. Cat approves, very much enjoys the simple things. It's an old cigarbox, a motor, 9v battery, lightsensor and an arduino uno. It spins when the cat blocks the light to the lightsensor.
 
-<h2>Video</h2>
-https://user-images.githubusercontent.com/85429142/166188063-11a9257a-5857-4cf2-b46d-a8ed5925b711.mp4
+<h2>The thing</h2>
+
+![20220502_100625](https://user-images.githubusercontent.com/85429142/166203995-467da522-6ea3-4092-a0d5-189250dbab96.gif)
 
 <h2>Images</h2>
 
